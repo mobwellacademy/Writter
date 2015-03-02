@@ -20,6 +20,22 @@
             android:name=".AvLogin"
             android:label="@string/title_activity_main_activity2" >
         </activity>
+        <activity
+            android:name=".AvRegistro"
+            android:label="@string/title_activity_registro" >
+        </activity>
     </application>
 
 </manifest>
+
+
+<!--<manifest xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <application>
+        <activity android:name="org.mobwell.writter.AvRegistro"
+            android:label="@string/title_activity_av_registro"
+            >
+        </activity>
+    </application>
+
+</manifest>//-->
