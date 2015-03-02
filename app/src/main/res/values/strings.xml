@@ -6,8 +6,8 @@
     <string name="title_activity_main_activity2">MainActivity2Activity</string>
 
     <!--Strings del Activity Login-->
-    <string name="logUsuario">Usuario: </string>
-    <string name="logContrasena">Contraseña: </string>
+    <string name="logUsuario">Usuario:</string>
+    <string name="logContrasena">Contraseña:</string>
     <string name="logAcceder">ACCEDER</string>
     <string name="logOlvido">¿Ha olvidado su contraseña?</string>
     <string name="logRegistrar">Regístrate aquí</string>
