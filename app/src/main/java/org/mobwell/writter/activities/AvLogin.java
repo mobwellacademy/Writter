@@ -1,24 +1,26 @@
-package org.mobwell.writter;
+package org.mobwell.writter.activities;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import org.mobwell.writter.R;
 
-public class AvRegistro extends ActionBarActivity {
+
+public class AvLogin extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_av_registro);
+        setContentView(R.layout.login);
     }
 
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_av_registro, menu);
+        getMenuInflater().inflate(R.menu.menu_main_login, menu);
         return true;
     }
 

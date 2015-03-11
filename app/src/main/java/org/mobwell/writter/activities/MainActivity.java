@@ -1,9 +1,11 @@
-package org.mobwell.writter;
+package org.mobwell.writter.activities;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import org.mobwell.writter.R;
 
 
 public class MainActivity extends ActionBarActivity {
