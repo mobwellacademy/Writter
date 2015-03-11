@@ -12,4 +12,12 @@
     <string name="logAcceder">ACCEDER</string>
     <string name="logOlvido">¿Ha olvidado su contraseña?</string>
     <string name="logRegistrar">Regístrate aquí</string>
+
+
+    <!--Strings del Activity Registro-->
+    <string name="regAlias">Alias:</string>
+    <string name="regEmail">E-Mail:</string>
+    <string name="regDescripcion">Descripción</string>
+    <string name="regFoto">Foto</string>
+    <string name="regRegistrar">REGISTRAR</string>
 </resources>
