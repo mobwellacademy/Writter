@@ -23,6 +23,10 @@ public class Book {
         this.arPosts = arPosts;
     }
 
+    public Book(){
+
+    }
+
     public String getTitle() {
         return title;
     }
@@ -53,5 +57,25 @@ public class Book {
 
     public void setArPosts(ArrayList<Post> arPosts) {
         this.arPosts = arPosts;
+    }
+
+    public void listBooks(){
+      /*  Post pt = new Post();
+        pt.lastPost(); Recupero los ultimos post para listar los libros mas recientes
+
+        */
+    }
+
+    public void showBook(int id_book){
+       /* Post pt = new Post();
+        pt.dameParrafos(id_book);
+
+        */
+    }
+
+    public void closeBook(int id_book){
+        /*
+        * this.close = true;
+        * */
     }
 }
