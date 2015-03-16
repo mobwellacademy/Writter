@@ -60,14 +60,15 @@ public class Book {
     }
 
     public void listBooks(){
-      /*  Post pt = new Post();
-        pt.lastPost(); Recupero los ultimos post para listar los libros mas recientes
+       /* Post pt = new Post();
+        pt.postActuales(); //Recupero los ultimos post para listar los libros mas recientes, agrupar por libro
 
         */
     }
 
     public void showBook(int id_book){
        /* Post pt = new Post();
+       esCreador();
         pt.dameParrafos(id_book);
 
         */
@@ -77,5 +78,13 @@ public class Book {
         /*
         * this.close = true;
         * */
+    }
+
+    public void esCreador(){
+
+        /**
+         * comprobamos si el usuario es creador del libro para que pueda administrar los post
+         *
+         */
     }
 }

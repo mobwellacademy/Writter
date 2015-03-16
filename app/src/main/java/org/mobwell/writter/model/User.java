@@ -6,7 +6,11 @@ package org.mobwell.writter.model;
  */
 public class User {
     String nick, email, descripcion, foto;
-
+/*
+* Comprobar los usuarios que crean libros, para que solo ellos puedan gestionar los post
+* que formaran parte de su libro.
+*
+* */
 
     public User(String nick, String email, String descripcion, String foto) {
         this.nick = nick;
