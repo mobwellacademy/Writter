@@ -20,14 +20,16 @@
     <string name="regDescripcion">Descripción</string>
     <string name="regFoto">Foto</string>
     <string name="regRegistrar">REGISTRAR</string>
-    <string name="title_activity_av_write_post">AvWritePost</string>
+    <string name="title_activity_avuser">AVUser</string>
+    <string name="title_activity_av_user">AvUser</string>
 
-
-    <!-- Strings del Activity WritePost -->
-    <string name="wpTitulo">Titulo del libro</string>
-    <string name="wpAutor">Creado por: </string>
-    <string name="wpAnterior">Ver Post Anterior</string>
-    <string name="wpPublicar">Publicar</string>
+    <!-- Strings del Activity User -->
+    <string name="usrNombre">Nombre del Usuario</string>
+    <string name="usrDesc">Descripción escogida por el usuario:</string>
+    <string name="usrBot1">Cambiar Foto</string>
+    <string name="usrBot2">Editar Descripción</string>
+    <string name="usrBot3">Cambiar Contraseña</string>
+    <string name="usrBot4">Logout</string>
 
 
 </resources>

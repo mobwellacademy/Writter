@@ -25,8 +25,12 @@
             android:label="@string/title_activity_registro" >
         </activity>
         <activity
-            android:name=".activities.AvWritePost"
-            android:label="@string/title_activity_av_write_post" >
+            android:name=".activities.AVUser"
+            android:label="@string/title_activity_avuser" >
+        </activity>
+        <activity
+            android:name=".activities.AvUser"
+            android:label="@string/title_activity_av_user" >
         </activity>
     </application>
 
