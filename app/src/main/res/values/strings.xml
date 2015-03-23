@@ -31,5 +31,11 @@
     <string name="usrBot3">Cambiar Contraseña</string>
     <string name="usrBot4">Logout</string>
 
+    <!-- Strings del Activity WritePost -->
+    <string name="wpAnterior">Ver Post Anterior</string>
+    <string name="wpPublicar">Publicar</string>
+    <string name="wpTitulo">Título del libro</string>
+    <string name="wpAutor">Escrito por: </string>
+
 
 </resources>
