@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 public class Book {
     String title;
-    Hashtag genre;
+    ArrayList<Hashtag> genre;
     // 3 types of lenght
     int lenght;
     ArrayList<Post> arPosts;
@@ -16,9 +16,8 @@ public class Book {
     public static final int RELATO = 500;
     public static final int NOVELA = 1000;
 
-    public Book(String title, Hashtag genre, int lenght, ArrayList<Post> arPosts) {
+    public Book(String title, int lenght, ArrayList<Post> arPosts) {
         this.title = title;
-        this.genre = genre;
         this.lenght = lenght;
         this.arPosts = arPosts;
     }
@@ -35,12 +34,12 @@ public class Book {
         this.title = title;
     }
 
-    public Hashtag getGenre() {
+    public ArrayList<Hashtag> getGenre() {
         return genre;
     }
 
-    public void setGenre(Hashtag genre) {
-        this.genre = genre;
+    public void addHashtag(Hashtag newHash) {
+        this.genre.add(newHash);
     }
 
     public int getLenght() {
