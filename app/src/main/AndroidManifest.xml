@@ -24,14 +24,12 @@
             android:name=".activities.AvRegistro"
             android:label="@string/title_activity_registro" >
         </activity>
-        <activity
-            android:name=".activities.AvWritePost"
-            android:label="@string/title_activity_av_write_post" >
-        </activity>
     </application>
 
-</manifest><!--
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" >
+</manifest>
+
+
+<!--<manifest xmlns:android="http://schemas.android.com/apk/res/android" >
 
     <application>
         <activity android:name="org.mobwell.writter.activities.AvRegistro"
@@ -40,5 +38,4 @@
         </activity>
     </application>
 
-</manifest>//
--->
+</manifest>//-->
