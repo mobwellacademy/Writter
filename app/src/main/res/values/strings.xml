@@ -60,4 +60,7 @@
     <string name="read_book_tv_hashtag">Hashtags</string>
     <string name="read_book_bt_sigue">Sigue la historia</string>
 
+    <!-- Strings del Activity List Book -->
+    <string name="lbBuscar">Buscar</string>
+
 </resources>
