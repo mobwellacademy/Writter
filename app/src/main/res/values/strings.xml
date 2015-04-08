@@ -56,4 +56,6 @@
 
     <!-- Strings del Activity ListBook -->
     <string name="lbBuscar">Buscar</string>
+
+    <!-- Strings del Activity -->
 </resources>
