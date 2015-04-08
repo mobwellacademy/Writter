@@ -4,7 +4,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="org.mobwell.writter.activity_av_read_book">
+    tools:context="org.mobwell.writter.activities.avReadBook">
 
     <TabHost
         android:layout_width="fill_parent"

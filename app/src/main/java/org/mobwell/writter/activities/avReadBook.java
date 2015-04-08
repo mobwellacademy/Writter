@@ -1,24 +1,26 @@
-package org.mobwell.writter;
+package org.mobwell.writter.activities;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import org.mobwell.writter.R;
 
-public class activity_av_read_book extends ActionBarActivity {
+
+public class avReadBook extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_activity_av_read_book);
+        setContentView(R.layout.activity_av_read_book);
     }
 
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_activity_av_read_book, menu);
+        getMenuInflater().inflate(R.menu.menu_av_read_book, menu);
         return true;
     }
 
