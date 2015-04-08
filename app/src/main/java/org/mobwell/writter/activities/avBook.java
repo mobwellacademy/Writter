@@ -1,4 +1,4 @@
-package org.mobwell.writter.model;
+package org.mobwell.writter.activities;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.MenuItem;
 
 import org.mobwell.writter.R;
 
-public class av_book extends ActionBarActivity {
+public class avBook extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
