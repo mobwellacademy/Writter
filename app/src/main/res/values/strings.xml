@@ -37,7 +37,21 @@
     <string name="wpTitulo">Título del libro</string>
     <string name="wpAutor">Escrito por: </string>
 
-    <!-- Strings del Activity -->
+    <!-- Strings del Activity Book -->
+    <string name="book_tv_titulo">Titulo:</string>
+    <string name="book_tv_hashtag">Hashtags:</string>
+    <string name="book_sw_hashtag1">Hashtag 1</string>
+    <string name="book_sw_hashtag2">Hashtag 2</string>
+    <string name="book_sw_hashtag3">Hashtag 3</string>
+    <string name="book_sw_hashtag4">Hashtag 4</string>
+    <string name="book_sw_hashtag5">Hashtag 5</string>
+    <string name="book_sw_hashtag6">Hashtag 6</string>
+    <string name="book_tv_tipo_libro">Tipo de libro</string>
+    <string name="book_rb_relato">Relato</string>
+    <string name="book_rb_frase">Frase</string>
+    <string name="book_rb_novela">Novela</string>
+    <string name="book_bt_comienza">Comienza</string>
+    <string name="book_bt_limpia">Limpia</string>
 
 
 </resources>
