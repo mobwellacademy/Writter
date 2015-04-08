@@ -52,10 +52,12 @@
     <string name="book_rb_novela">Novela</string>
     <string name="book_bt_comienza">Comienza</string>
     <string name="book_bt_limpia">Limpia</string>
-    <string name="title_activity_av_list_book">av_list_book</string>
+    <string name="title_activity_activity_av_read_book">activity_av_read_book</string>
 
-    <!-- Strings del Activity ListBook -->
-    <string name="lbBuscar">Buscar</string>
+    <!-- Strings del Activity Read Book -->
+    <string name="read_book_tv_titulo">Titulo</string>
+    <string name="read_book_tv_usuario">Info usuario</string>
+    <string name="read_book_tv_hashtag">Hashtags</string>
+    <string name="read_book_bt_sigue">Sigue la historia</string>
 
-    <!-- Strings del Activity -->
 </resources>
