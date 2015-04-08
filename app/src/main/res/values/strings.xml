@@ -37,5 +37,7 @@
     <string name="wpTitulo">Título del libro</string>
     <string name="wpAutor">Escrito por: </string>
 
+    <!-- Strings del Activity -->
+
 
 </resources>
