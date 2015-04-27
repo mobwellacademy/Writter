@@ -6,8 +6,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:id="@+id/tabHost"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true">
+        android:layout_gravity="bottom">
 
         <LinearLayout
             android:layout_width="fill_parent"
@@ -25,29 +24,28 @@
                 android:layout_height="fill_parent">
 
                 <LinearLayout
-                    android:id="@+id/tab2"
+                    android:id="@+id/Nuevos"
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
                     android:orientation="vertical"></LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/tab3"
+                    android:id="@+id/Busca"
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
                     android:orientation="vertical"></LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/tab1"
+                    android:id="@+id/Libros"
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
-                    android:orientation="vertical"
-                    android:layout_gravity="center_horizontal|top"></LinearLayout>
+                    android:orientation="vertical"></LinearLayout>
+
                 <LinearLayout
-                    android:id="@+id/tab4"
+                    android:id="@+id/Usuario"
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
-                    android:orientation="vertical"
-                    android:layout_gravity="center_horizontal|top"></LinearLayout>
+                    android:orientation="vertical"></LinearLayout>
             </FrameLayout>
         </LinearLayout>
     </TabHost>

@@ -62,5 +62,6 @@
 
     <!-- Strings del Activity List Book -->
     <string name="lbBuscar">Buscar</string>
+    <string name="title_activity_principal_fragment">PrincipalFragment</string>
 
 </resources>
